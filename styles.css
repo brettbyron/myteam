@@ -1,0 +1,17 @@
+.navbar-dark .navbar-brand {
+    color: #fcc;
+  }
+
+.jumbotron {
+  background-image: url(levis.jpg);
+  background-size: cover;
+}
+
+  /* .jumbotron looks for class jumbotron, and then looks inside for element img*/
+.jumbotron img {
+  height: 150px;
+}
+
+.jumbotron h1 {
+  color: white;
+}
